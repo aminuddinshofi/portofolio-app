@@ -1,4 +1,4 @@
 <hr>
 <div class="col text-center">
-    <footer class="text-muted">sakukode &copy; 2021</footer>
+    <footer class="text-muted">Portolio App &copy; 2022</footer>
 </div>
